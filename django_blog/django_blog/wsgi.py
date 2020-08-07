@@ -1,5 +1,5 @@
 """
-WSGI config for django_blog project.
+WSGI config for teatg project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
